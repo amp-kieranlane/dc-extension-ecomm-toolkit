@@ -2,7 +2,7 @@
 
 The rest integration is in place pointing to flat files to enable teams to see how this can be used with sample data.
 
-[Extension Instalation Params Docs](https://amplience.com/developers/docs/integrations/extensions/register-use/#installation-parameters)
+[Extension Installation Params Docs](https://amplience.com/developers/docs/integrations/extensions/register-use/#installation-parameters)
 
 This does not have any auth, so you just require the installation params.
 
